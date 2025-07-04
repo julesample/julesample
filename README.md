@@ -6,7 +6,7 @@
 HTML, CSS, Javascript, PHP, Typescript
 
 
-## Other Common Github Profile Sections
+## Other 
 👩‍💻 I'm interested in React,Nodejs,Expressjs,Nextjs,Tailwind CSS and ShadCN.
 
 🧠 I'm currently learning React and Nextjs.
